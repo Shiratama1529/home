@@ -19,10 +19,8 @@ header {
     float: left;
     font-size: 24px;
     color: white;
-    padding: 0px 20px;
-    line-height: 65px;
-    display: block;
-    text-decoration: none;
+    padding: 0 20px;
+    line-height: 18px;
 }
 
 .header-right {
@@ -44,6 +42,19 @@ header {
     background-color: rgba(255, 255, 255, 0.3);
 }
 
+.menu-icon {
+    color: white;
+    font-size: 32px;
+    float: right;
+    padding-top: 15px;
+    display: none !important;
+}
+
+.fas {
+    margin-right: 5px;
+}
+  
+
 .report-wrapper {
     width: 80%;
     padding: 0 10%;
@@ -60,6 +71,10 @@ header {
 .introduction a {
     color: gray;
 }
+
+.introduction img {
+    width: 100%;
+} 
 
 .report-container {
     width: 75%;
