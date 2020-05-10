@@ -1,0 +1,42 @@
+@media all and (max-width: 1000px) {
+
+    .introduction-text {
+        font-size: 15px;
+    }
+
+    
+    .main-report p {
+        font-size: 15px;
+    }
+    
+}
+
+@media all and (max-width: 896px) {
+
+    .menu-icon {
+        display: block !important;
+    }
+
+    .header-right {
+        display: none;
+    }
+
+    .introduction {
+        width: 90%;
+        padding: 0 5% 100px 5%;
+    }
+
+    .introduction-text {
+        font-size: 18px;
+    }
+
+    .report-container {
+        width: 90%;
+        padding: 0 5%;
+    }
+
+    .viewer-1 img {
+        width: 40%;
+    }
+
+}
