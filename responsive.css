@@ -14,7 +14,7 @@
 @media all and (max-width: 896px) {
 
     #menu-icon {
-        display: block !important;
+        display: block;
     }
 
     #header-right {
