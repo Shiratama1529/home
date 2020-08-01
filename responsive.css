@@ -1,11 +1,11 @@
 @media all and (max-width: 1024px) {
 
-    .introduction-text {
+    #tag-text {
         font-size: 15px;
     }
 
     
-    .main-report p {
+    #main-report p {
         font-size: 15px;
     }
     
@@ -13,29 +13,29 @@
 
 @media all and (max-width: 896px) {
 
-    .menu-icon {
+    #menu-icon {
         display: block !important;
     }
 
-    .header-right {
+    #header-right {
         display: none;
     }
 
-    .introduction {
+    #tag {
         width: 90%;
         padding: 0 5% 100px 5%;
     }
 
-    .introduction-text {
+    #tag-text {
         font-size: 18px;
     }
 
-    .report-container {
+    #report-container {
         width: 90%;
         padding: 0 5%;
     }
 
-    .viewer-1 img {
+    #viewer-1 img {
         width: 40%;
     }
 
