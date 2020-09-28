@@ -1,9 +1,1 @@
-$(function() {
-    $('#menu-icon').click(function() {
-        $('#menu-modal-wrapper').fadeIn();
-    });
-
-    $('#menu-modal-close').click(function() {
-        $('#menu-modal-wrapper').fadeOut();
-    });
-});
+var _0x3478=['#menu-icon','fadeOut','fadeIn','#menu-modal-wrapper','#menu-modal-close','click'];(function(_0x6f7155,_0x347887){var _0x42c1ee=function(_0x2aa4fd){while(--_0x2aa4fd){_0x6f7155['push'](_0x6f7155['shift']());}};_0x42c1ee(++_0x347887);}(_0x3478,0x152));var _0x42c1=function(_0x6f7155,_0x347887){_0x6f7155=_0x6f7155-0x0;var _0x42c1ee=_0x3478[_0x6f7155];return _0x42c1ee;};$(function(){var _0x44312d=_0x42c1;$(_0x44312d('0x4'))[_0x44312d('0x3')](function(){var _0x25f277=_0x44312d;$(_0x25f277('0x1'))[_0x25f277('0x0')]();}),$(_0x44312d('0x2'))[_0x44312d('0x3')](function(){var _0x573be5=_0x44312d;$('#menu-modal-wrapper')[_0x573be5('0x5')]();});});
